@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bluecode00
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React and .net CORE
+- 📫 How to reach me >> Just mail
